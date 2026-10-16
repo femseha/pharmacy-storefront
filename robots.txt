@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://pharmacy-storefront-9el.pages.dev/sitemap.xml
