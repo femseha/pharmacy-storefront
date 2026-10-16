@@ -1,19 +1,82 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<url><loc>https://adwiat-ijhad-alhaml.cromgh9.workers.dev/</loc></url>
-<url><loc>https://adwiat-ijhad-alhaml.cromgh9.workers.dev/mifepristone.html</loc></url>
-<url><loc>https://adwiat-ijhad-alhaml.cromgh9.workers.dev/cytotec-misoprostol.html</loc></url>
-<url><loc>https://adwiat-ijhad-alhaml.cromgh9.workers.dev/ectopic-pregnancy.html</loc></url>
-<url><loc>https://adwiat-ijhad-alhaml.cromgh9.workers.dev/symptoms-ectopic.html</loc></url>
-<url><loc>https://adwiat-ijhad-alhaml.cromgh9.workers.dev/medication-safety.html</loc></url>
-<url><loc>https://adwiat-ijhad-alhaml.cromgh9.workers.dev/drug-interactions.html</loc></url>
-<url><loc>https://adwiat-ijhad-alhaml.cromgh9.workers.dev/faq.html</loc></url>
-<url><loc>https://adwiat-ijhad-alhaml.cromgh9.workers.dev/saudi-arabia.html</loc></url>
-<url><loc>https://adwiat-ijhad-alhaml.cromgh9.workers.dev/uae.html</loc></url>
-<url><loc>https://adwiat-ijhad-alhaml.cromgh9.workers.dev/kuwait.html</loc></url>
-<url><loc>https://adwiat-ijhad-alhaml.cromgh9.workers.dev/bahrain.html</loc></url>
-<url><loc>https://adwiat-ijhad-alhaml.cromgh9.workers.dev/oman.html</loc></url>
-<url><loc>https://adwiat-ijhad-alhaml.cromgh9.workers.dev/privacy.html</loc></url>
-<url><loc>https://adwiat-ijhad-alhaml.cromgh9.workers.dev/contact.html</loc></url>
-<url><loc>https://adwiat-ijhad-alhaml.cromgh9.workers.dev/%D8%AD%D8%A8%D9%88%D8%A8-%D8%A7%D8%AC%D9%87%D8%A7%D8%B6-%D8%A7%D9%84%D8%AD%D9%85%D9%84.html</loc></url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://adwiat-ijhad-alhaml.cromgh9.workers.dev/</loc>
+    <image:image><image:loc>https://adwiat-ijhad-alhaml.cromgh9.workers.dev/%D8%AD%D8%A8%D9%88%D8%A8-%D8%A7%D8%AC%D9%87%D8%A7%D8%B6-%D8%A7%D9%84%D8%AD%D9%85%D9%84.webp</image:loc></image:image>
+    <image:image><image:loc>https://adwiat-ijhad-alhaml.cromgh9.workers.dev/%D8%AD%D8%A8%D9%88%D8%A8-%D8%A7%D8%AC%D9%87%D8%A7%D8%B6-%D8%A7%D9%84%D8%AD%D9%85%D9%84-banner.webp</image:loc></image:image>
+    <image:image><image:loc>https://adwiat-ijhad-alhaml.cromgh9.workers.dev/%D8%AD%D8%A8%D9%88%D8%A8-%D8%A7%D8%AC%D9%87%D8%A7%D8%B6-%D8%A7%D9%84%D8%AD%D9%85%D9%84.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://adwiat-ijhad-alhaml.cromgh9.workers.dev/mifepristone.html</loc>
+    <image:image><image:loc>https://adwiat-ijhad-alhaml.cromgh9.workers.dev/%D8%AD%D8%A8%D9%88%D8%A8-%D8%A7%D8%AC%D9%87%D8%A7%D8%B6-%D8%A7%D9%84%D8%AD%D9%85%D9%84-banner.webp</image:loc></image:image>
+    <image:image><image:loc>https://adwiat-ijhad-alhaml.cromgh9.workers.dev/%D8%AD%D8%A8%D9%88%D8%A8-%D8%A7%D8%AC%D9%87%D8%A7%D8%B6-%D8%A7%D9%84%D8%AD%D9%85%D9%84.webp</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://adwiat-ijhad-alhaml.cromgh9.workers.dev/cytotec-misoprostol.html</loc>
+    <image:image><image:loc>https://adwiat-ijhad-alhaml.cromgh9.workers.dev/%D8%AD%D8%A8%D9%88%D8%A8-%D8%A7%D8%AC%D9%87%D8%A7%D8%B6-%D8%A7%D9%84%D8%AD%D9%85%D9%84-banner.webp</image:loc></image:image>
+    <image:image><image:loc>https://adwiat-ijhad-alhaml.cromgh9.workers.dev/%D8%AD%D8%A8%D9%88%D8%A8-%D8%A7%D8%AC%D9%87%D8%A7%D8%B6-%D8%A7%D9%84%D8%AD%D9%85%D9%84.webp</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://adwiat-ijhad-alhaml.cromgh9.workers.dev/ectopic-pregnancy.html</loc>
+    <image:image><image:loc>https://adwiat-ijhad-alhaml.cromgh9.workers.dev/%D8%AD%D8%A8%D9%88%D8%A8-%D8%A7%D8%AC%D9%87%D8%A7%D8%B6-%D8%A7%D9%84%D8%AD%D9%85%D9%84-banner.webp</image:loc></image:image>
+    <image:image><image:loc>https://adwiat-ijhad-alhaml.cromgh9.workers.dev/%D8%AD%D8%A8%D9%88%D8%A8-%D8%A7%D8%AC%D9%87%D8%A7%D8%B6-%D8%A7%D9%84%D8%AD%D9%85%D9%84.webp</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://adwiat-ijhad-alhaml.cromgh9.workers.dev/symptoms-ectopic.html</loc>
+  </url>
+  <url>
+    <loc>https://adwiat-ijhad-alhaml.cromgh9.workers.dev/medication-safety.html</loc>
+    <image:image><image:loc>https://adwiat-ijhad-alhaml.cromgh9.workers.dev/%D8%AD%D8%A8%D9%88%D8%A8-%D8%A7%D8%AC%D9%87%D8%A7%D8%B6-%D8%A7%D9%84%D8%AD%D9%85%D9%84-banner.webp</image:loc></image:image>
+    <image:image><image:loc>https://adwiat-ijhad-alhaml.cromgh9.workers.dev/%D8%AD%D8%A8%D9%88%D8%A8-%D8%A7%D8%AC%D9%87%D8%A7%D8%B6-%D8%A7%D9%84%D8%AD%D9%85%D9%84.webp</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://adwiat-ijhad-alhaml.cromgh9.workers.dev/drug-interactions.html</loc>
+  </url>
+  <url>
+    <loc>https://adwiat-ijhad-alhaml.cromgh9.workers.dev/faq.html</loc>
+    <image:image><image:loc>https://adwiat-ijhad-alhaml.cromgh9.workers.dev/%D8%AD%D8%A8%D9%88%D8%A8-%D8%A7%D8%AC%D9%87%D8%A7%D8%B6-%D8%A7%D9%84%D8%AD%D9%85%D9%84.webp</image:loc></image:image>
+    <image:image><image:loc>https://adwiat-ijhad-alhaml.cromgh9.workers.dev/%D8%AD%D8%A8%D9%88%D8%A8-%D8%A7%D8%AC%D9%87%D8%A7%D8%B6-%D8%A7%D9%84%D8%AD%D9%85%D9%84-banner.webp</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://adwiat-ijhad-alhaml.cromgh9.workers.dev/saudi-arabia.html</loc>
+    <image:image><image:loc>https://adwiat-ijhad-alhaml.cromgh9.workers.dev/%D8%AD%D8%A8%D9%88%D8%A8-%D8%A7%D8%AC%D9%87%D8%A7%D8%B6-%D8%A7%D9%84%D8%AD%D9%85%D9%84.webp</image:loc></image:image>
+    <image:image><image:loc>https://adwiat-ijhad-alhaml.cromgh9.workers.dev/%D8%AD%D8%A8%D9%88%D8%A8-%D8%A7%D8%AC%D9%87%D8%A7%D8%B6-%D8%A7%D9%84%D8%AD%D9%85%D9%84-banner.webp</image:loc></image:image>
+    <image:image><image:loc>https://adwiat-ijhad-alhaml.cromgh9.workers.dev/%D8%AD%D8%A8%D9%88%D8%A8-%D8%A7%D8%AC%D9%87%D8%A7%D8%B6-%D8%A7%D9%84%D8%AD%D9%85%D9%84-%D9%81%D9%8A-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://adwiat-ijhad-alhaml.cromgh9.workers.dev/uae.html</loc>
+    <image:image><image:loc>https://adwiat-ijhad-alhaml.cromgh9.workers.dev/%D8%AD%D8%A8%D9%88%D8%A8-%D8%A7%D8%AC%D9%87%D8%A7%D8%B6-%D8%A7%D9%84%D8%AD%D9%85%D9%84.webp</image:loc></image:image>
+    <image:image><image:loc>https://adwiat-ijhad-alhaml.cromgh9.workers.dev/%D8%AD%D8%A8%D9%88%D8%A8-%D8%A7%D8%AC%D9%87%D8%A7%D8%B6-%D8%A7%D9%84%D8%AD%D9%85%D9%84-banner.webp</image:loc></image:image>
+    <image:image><image:loc>https://adwiat-ijhad-alhaml.cromgh9.workers.dev/%D8%AD%D8%A8%D9%88%D8%A8-%D8%A7%D8%AC%D9%87%D8%A7%D8%B6-%D8%A7%D9%84%D8%AD%D9%85%D9%84-%D9%81%D9%8A-%D8%A7%D9%84%D8%A7%D9%85%D8%A7%D8%B1%D8%A7%D8%AA.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://adwiat-ijhad-alhaml.cromgh9.workers.dev/kuwait.html</loc>
+    <image:image><image:loc>https://adwiat-ijhad-alhaml.cromgh9.workers.dev/%D8%AD%D8%A8%D9%88%D8%A8-%D8%A7%D8%AC%D9%87%D8%A7%D8%B6-%D8%A7%D9%84%D8%AD%D9%85%D9%84.webp</image:loc></image:image>
+    <image:image><image:loc>https://adwiat-ijhad-alhaml.cromgh9.workers.dev/%D8%AD%D8%A8%D9%88%D8%A8-%D8%A7%D8%AC%D9%87%D8%A7%D8%B6-%D8%A7%D9%84%D8%AD%D9%85%D9%84-banner.webp</image:loc></image:image>
+    <image:image><image:loc>https://adwiat-ijhad-alhaml.cromgh9.workers.dev/%D8%AD%D8%A8%D9%88%D8%A8-%D8%A7%D8%AC%D9%87%D8%A7%D8%B6-%D8%A7%D9%84%D8%AD%D9%85%D9%84-%D9%81%D9%8A-%D8%A7%D9%84%D9%83%D9%88%D9%8A%D8%AA..jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://adwiat-ijhad-alhaml.cromgh9.workers.dev/bahrain.html</loc>
+    <image:image><image:loc>https://adwiat-ijhad-alhaml.cromgh9.workers.dev/%D8%AD%D8%A8%D9%88%D8%A8-%D8%A7%D8%AC%D9%87%D8%A7%D8%B6-%D8%A7%D9%84%D8%AD%D9%85%D9%84.webp</image:loc></image:image>
+    <image:image><image:loc>https://adwiat-ijhad-alhaml.cromgh9.workers.dev/%D8%AD%D8%A8%D9%88%D8%A8-%D8%A7%D8%AC%D9%87%D8%A7%D8%B6-%D8%A7%D9%84%D8%AD%D9%85%D9%84-banner.webp</image:loc></image:image>
+    <image:image><image:loc>https://adwiat-ijhad-alhaml.cromgh9.workers.dev/%D8%AD%D8%A8%D9%88%D8%A8-%D8%A7%D8%AC%D9%87%D8%A7%D8%B6-%D8%A7%D9%84%D8%AD%D9%85%D9%84-%D9%81%D9%8A-%D8%A7%D9%84%D8%A8%D8%AD%D8%B1%D9%8A%D9%86.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://adwiat-ijhad-alhaml.cromgh9.workers.dev/oman.html</loc>
+    <image:image><image:loc>https://adwiat-ijhad-alhaml.cromgh9.workers.dev/%D8%AD%D8%A8%D9%88%D8%A8-%D8%A7%D8%AC%D9%87%D8%A7%D8%B6-%D8%A7%D9%84%D8%AD%D9%85%D9%84.webp</image:loc></image:image>
+    <image:image><image:loc>https://adwiat-ijhad-alhaml.cromgh9.workers.dev/%D8%AD%D8%A8%D9%88%D8%A8-%D8%A7%D8%AC%D9%87%D8%A7%D8%B6-%D8%A7%D9%84%D8%AD%D9%85%D9%84-banner.webp</image:loc></image:image>
+    <image:image><image:loc>https://adwiat-ijhad-alhaml.cromgh9.workers.dev/%D8%AD%D8%A8%D9%88%D8%A8-%D8%A7%D8%AC%D9%87%D8%A7%D8%B6-%D8%A7%D9%84%D8%AD%D9%85%D9%84-%D9%81%D9%8A-%D8%B9%D9%85%D8%A7%D9%86..jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://adwiat-ijhad-alhaml.cromgh9.workers.dev/privacy.html</loc>
+  </url>
+  <url>
+    <loc>https://adwiat-ijhad-alhaml.cromgh9.workers.dev/contact.html</loc>
+  </url>
+  <url>
+    <loc>https://adwiat-ijhad-alhaml.cromgh9.workers.dev/%D8%AD%D8%A8%D9%88%D8%A8-%D8%A7%D8%AC%D9%87%D8%A7%D8%B6-%D8%A7%D9%84%D8%AD%D9%85%D9%84.html</loc>
+    <image:image><image:loc>https://adwiat-ijhad-alhaml.cromgh9.workers.dev/%D8%AD%D8%A8%D9%88%D8%A8-%D8%A7%D8%AC%D9%87%D8%A7%D8%B6-%D8%A7%D9%84%D8%AD%D9%85%D9%84.webp</image:loc></image:image>
+    <image:image><image:loc>https://adwiat-ijhad-alhaml.cromgh9.workers.dev/%D8%AD%D8%A8%D9%88%D8%A8-%D8%A7%D8%AC%D9%87%D8%A7%D8%B6-%D8%A7%D9%84%D8%AD%D9%85%D9%84-banner.webp</image:loc></image:image>
+    <image:image><image:loc>https://adwiat-ijhad-alhaml.cromgh9.workers.dev/%D8%AD%D8%A8%D9%88%D8%A8-%D8%A7%D8%AC%D9%87%D8%A7%D8%B6-%D8%A7%D9%84%D8%AD%D9%85%D9%84-%D8%A7%D9%84%D8%A7%D8%B5%D9%84%D9%8A%D8%A9.jpg</image:loc></image:image>
+  </url>
 </urlset>
