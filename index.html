@@ -1,0 +1,78 @@
+<!doctype html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>الصيدلية الإلكترونية | خدمات صيدلية ومنتجات مرخصة</title>
+  <meta name="description" content="واجهة صيدلية إلكترونية لخدمات الصيدلية والاستفسارات الدوائية والمنتجات المسموح بتداولها وفق الأنظمة المحلية.">
+  <meta name="robots" content="index,follow">
+  <meta name="theme-color" content="#075985">
+  <style>
+    :root{--navy:#073763;--blue:#087fb8;--sky:#eaf7ff;--teal:#0d9488;--ink:#16324a;--muted:#607589;--line:#d9e8f2;--white:#fff}
+    *{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0;font-family:Tahoma,Arial,sans-serif;color:var(--ink);background:#f7fbfe;line-height:1.8}
+    a{color:inherit;text-decoration:none}.wrap{width:min(1120px,92%);margin:auto}
+    .top{background:var(--navy);color:white;font-size:13px;padding:7px 0}.top .wrap{display:flex;justify-content:space-between;gap:12px;flex-wrap:wrap}
+    header{background:#fff;border-bottom:1px solid var(--line);position:sticky;top:0;z-index:10}
+    .nav{display:flex;align-items:center;justify-content:space-between;gap:20px;padding:14px 0}.brand{display:flex;align-items:center;gap:10px;font-weight:800;color:var(--navy);font-size:19px}
+    .mark{width:42px;height:42px;border-radius:14px;background:linear-gradient(135deg,#0ea5e9,#075985);display:grid;place-items:center;color:white;font-size:23px}
+    .links{display:flex;gap:18px;align-items:center;flex-wrap:wrap;font-size:14px;color:#36546b}.btn{display:inline-flex;align-items:center;justify-content:center;background:var(--teal);color:white;padding:11px 18px;border-radius:12px;font-weight:700;border:0;cursor:pointer}
+    .hero{padding:54px 0 42px;background:radial-gradient(circle at 85% 10%,#c9f0ff 0,transparent 33%),linear-gradient(120deg,#f2fbff,#e3f5ff)}
+    .hero-grid{display:grid;grid-template-columns:1.15fr .85fr;align-items:center;gap:34px}.eyebrow{display:inline-block;background:#d3f4f0;color:#087c72;border-radius:30px;padding:5px 12px;font-size:13px;font-weight:bold}
+    h1{font-size:clamp(30px,4.5vw,48px);line-height:1.35;margin:15px 0;color:var(--navy)}.lead{font-size:17px;color:#46677d;max-width:650px}
+    .hero-actions{display:flex;gap:12px;flex-wrap:wrap;margin-top:24px}.btn.secondary{background:white;color:var(--navy);border:1px solid #b7d9eb}
+    .visual{min-height:290px;border-radius:28px;background:linear-gradient(145deg,#075985,#0ea5e9);display:grid;place-items:center;position:relative;overflow:hidden;color:white;box-shadow:0 20px 50px #07598524}
+    .visual:before,.visual:after{content:"";position:absolute;border:1px solid #ffffff44;border-radius:50%;width:270px;height:270px}.visual:after{width:360px;height:360px}
+    .visual-inner{z-index:1;text-align:center;padding:30px}.medical-icon{font-size:74px;line-height:1}.visual strong{display:block;font-size:23px;margin-top:14px}.visual span{display:block;color:#d9f4ff;font-size:14px}
+    .trust{display:grid;grid-template-columns:repeat(3,1fr);gap:14px;margin-top:28px}.trust div{background:white;border:1px solid var(--line);border-radius:15px;padding:13px;text-align:center;font-size:13px}
+    section{padding:48px 0}.section-head{text-align:center;max-width:720px;margin:0 auto 28px}.section-head h2{font-size:29px;color:var(--navy);margin:0 0 8px}.section-head p{color:var(--muted);margin:0}
+    .cards{display:grid;grid-template-columns:repeat(3,1fr);gap:18px}.card{background:white;border:1px solid var(--line);border-radius:20px;padding:23px;box-shadow:0 8px 25px #143b5210}.icon{width:48px;height:48px;border-radius:15px;background:var(--sky);display:grid;place-items:center;font-size:24px}
+    .card h3{color:var(--navy);margin:14px 0 6px;font-size:19px}.card p{color:var(--muted);margin:0;font-size:14px}
+    .products{background:#eef8fd}.product-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:15px}.product{background:white;border:1px solid var(--line);border-radius:17px;padding:18px;text-align:center}.product-art{height:110px;background:linear-gradient(135deg,#e4f7ff,#f4fbff);border-radius:13px;display:grid;place-items:center;font-size:38px}.product h3{font-size:16px;margin:12px 0 4px}.product p{font-size:12px;color:var(--muted);margin:0 0 12px}
+    .countries{display:flex;gap:10px;justify-content:center;flex-wrap:wrap}.country{background:white;border:1px solid var(--line);border-radius:30px;padding:9px 16px;font-size:14px}
+    .contact{background:linear-gradient(120deg,#073763,#087fb8);color:white;border-radius:26px;padding:34px;display:flex;justify-content:space-between;align-items:center;gap:20px}.contact h2{margin:0 0 6px}.contact p{margin:0;color:#d9f4ff}
+    footer{background:#062944;color:#d9eaf4;padding:28px 0;font-size:13px}footer .foot{display:flex;justify-content:space-between;gap:20px;flex-wrap:wrap}
+    .disclaimer{margin-top:14px;color:#afc7d8;font-size:12px;max-width:900px}
+    @media(max-width:800px){.hero-grid{grid-template-columns:1fr}.visual{min-height:230px}.cards{grid-template-columns:1fr}.product-grid{grid-template-columns:repeat(2,1fr)}.trust{grid-template-columns:1fr}.links{display:none}.contact{align-items:flex-start;flex-direction:column}}
+    @media(max-width:420px){.product-grid{grid-template-columns:1fr 1fr}.nav{padding:10px 0}.brand{font-size:16px}}
+  </style>
+</head>
+<body>
+  <div class="top"><div class="wrap"><span>خدمات صيدلية ومعلومات واضحة</span><span>للتواصل: 00966530945626</span></div></div>
+  <header><div class="wrap nav">
+    <a class="brand" href="#" aria-label="الصفحة الرئيسية"><span class="mark">✚</span><span>الصيدلية الإلكترونية</span></a>
+    <nav class="links" aria-label="التنقل الرئيسي"><a href="#services">الخدمات</a><a href="#catalog">الكتالوج</a><a href="#countries">نطاق الخدمة</a><a href="#contact">تواصل معنا</a></nav>
+    <a class="btn" href="https://wa.me/966530945626" target="_blank" rel="noopener">تواصل عبر واتساب</a>
+  </div></header>
+  <main>
+    <section class="hero"><div class="wrap hero-grid">
+      <div>
+        <span class="eyebrow">خدمات صيدلية عبر الإنترنت</span>
+        <h1>رعاية صيدلية موثوقة، بخطوات واضحة</h1>
+        <p class="lead">تعرّف على خدمات الصيدلية واستفسر عن المنتجات المتاحة وفق الأنظمة المحلية. يتم تأكيد التوفر ومتطلبات الصرف والتوصيل قبل إتمام أي طلب.</p>
+        <div class="hero-actions"><a class="btn" href="#catalog">استعرض الأقسام</a><a class="btn secondary" href="#contact">تواصل مع الصيدلية</a></div>
+        <div class="trust"><div>✓ معلومات واضحة عن المنتج</div><div>✓ التحقق من متطلبات الصرف</div><div>✓ تأكيد نطاق التوصيل مسبقًا</div></div>
+      </div>
+      <div class="visual" role="img" aria-label="رسم توضيحي عام لخدمات الصيدلية"><div class="visual-inner"><div class="medical-icon">✚</div><strong>خدمات الصيدلية</strong><span>معلومات · استفسارات · منتجات مرخصة</span></div></div>
+    </div></section>
+    <section id="services"><div class="wrap"><div class="section-head"><h2>خدماتنا</h2><p>واجهة بسيطة لتسهيل الوصول إلى معلومات الصيدلية والتواصل معها.</p></div>
+      <div class="cards">
+        <article class="card"><div class="icon">💊</div><h3>الاستفسار عن المنتجات</h3><p>اسأل عن التوفر والمكونات وطريقة الاستخدام المعتمدة للمنتجات التي يسمح النظام بتداولها.</p></article>
+        <article class="card"><div class="icon">🧑‍⚕️</div><h3>خدمة صيدلانية</h3><p>التأكد من متطلبات الصرف، وقراءة النشرة الرسمية، وإحالتك إلى مختص عند الحاجة.</p></article>
+        <article class="card"><div class="icon">🚚</div><h3>معلومات التوصيل</h3><p>تُحدد مناطق التوصيل والمدة والتكلفة بعد التحقق من الأنظمة المحلية وشروط الشحن.</p></article>
+      </div>
+    </div></section>
+    <section class="products" id="catalog"><div class="wrap"><div class="section-head"><h2>كتالوج الصيدلية</h2><p>نماذج أقسام قابلة للاستبدال بالمنتجات المعتمدة والمتاحة فعليًا بعد مراجعة بياناتها.</p></div>
+      <div class="product-grid">
+        <article class="product"><div class="product-art">🩹</div><h3>مستلزمات الإسعافات الأولية</h3><p>أضف وصف المنتج والسعر بعد التحقق.</p><a class="btn" href="https://wa.me/966530945626" target="_blank" rel="noopener">استفسر</a></article>
+        <article class="product"><div class="product-art">🧴</div><h3>العناية الشخصية</h3><p>أضف المنتجات المعتمدة وتفاصيلها.</p><a class="btn" href="https://wa.me/966530945626" target="_blank" rel="noopener">استفسر</a></article>
+        <article class="product"><div class="product-art">🌡️</div><h3>أجهزة قياس منزلية</h3><p>أضف المواصفات والتوفر الفعلي.</p><a class="btn" href="https://wa.me/966530945626" target="_blank" rel="noopener">استفسر</a></article>
+        <article class="product"><div class="product-art">🧼</div><h3>مستلزمات النظافة</h3><p>أضف السعر وشروط التوصيل.</p><a class="btn" href="https://wa.me/966530945626" target="_blank" rel="noopener">استفسر</a></article>
+      </div>
+    </div></section>
+    <section id="countries"><div class="wrap"><div class="section-head"><h2>نطاق الخدمة</h2><p>تُفعّل كل دولة فقط بعد التحقق من الترخيص وقواعد البيع والتوصيل المحلية.</p></div><div class="countries"><span class="country">السعودية</span><span class="country">الإمارات</span><span class="country">الكويت</span><span class="country">البحرين</span><span class="country">سلطنة عُمان</span></div></div></section>
+    <section id="contact"><div class="wrap"><div class="contact"><div><h2>هل لديك استفسار؟</h2><p>تواصل معنا لمعرفة معلومات الصيدلية والمنتجات المتاحة.</p></div><a class="btn" href="https://wa.me/966530945626" target="_blank" rel="noopener">واتساب 00966530945626</a></div></div></section>
+  </main>
+  <footer><div class="wrap foot"><strong>الصيدلية الإلكترونية</strong><span>© <span id="year"></span> جميع الحقوق محفوظة</span></div><div class="wrap disclaimer">هذه واجهة أولية. يجب إدخال الاسم القانوني للصيدلية وبيانات الترخيص وسياسة الخصوصية وشروط البيع والإرجاع ومعلومات التوصيل قبل النشر. لا تُدرج أي منتجات أو ادعاءات صحية قبل التحقق من اعتمادها ومتطلبات تداولها في كل دولة.</div></footer>
+  <script>document.getElementById('year').textContent = new Date().getFullYear();</script>
+</body>
+</html>
